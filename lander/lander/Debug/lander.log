@@ -1,0 +1,157 @@
+﻿  lander.cpp
+C:\Users\17521\Desktop\lander\lander\lander\src\lander.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+  lander_graphics.cpp
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(483,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(493,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(493,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(493,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(511,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(511,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(511,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(514,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(514,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(514,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(525,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(529,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(529,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(529,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(607,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(701,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(701,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(702,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(702,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(704,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(704,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(710,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(710,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(713,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(713,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(716,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(716,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(719,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(719,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(722,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(722,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(725,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(725,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(728,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(728,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(731,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(731,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(734,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(734,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(737,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(737,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(740,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(740,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(749,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(749,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(749,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(763,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(763,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(784,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(784,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(785,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(785,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(832,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(835,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(841,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(843,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(845,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(847,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(849,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(851,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(868,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(873,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(875,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(877,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(915,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(915,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(915,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(932,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(957,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(958,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(959,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(961,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(962,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(964,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(965,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(966,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(968,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(970,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(971,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(972,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(974,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(975,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(976,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(978,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(979,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(980,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(981,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(982,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(984,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(985,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(986,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(992,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(993,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1014,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1029,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1029,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1174,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1181,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1198,108): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1198,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1198,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1845,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1845,51): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1845,78): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1846,46): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1846,34): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1846,22): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1880,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1942,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1954,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1954,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1955,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1955,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1956,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1956,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1957,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1957,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1958,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1958,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1959,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1959,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1960,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1960,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1961,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1961,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1962,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1962,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1963,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1963,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1964,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1964,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1965,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1965,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1966,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1966,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1967,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1967,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1968,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1968,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1969,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1969,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1988,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(1988,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2001,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2126,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2126,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2126,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2156,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2156,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2914,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2920,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\17521\Desktop\lander\lander\lander\src\lander_graphics.cpp(2926,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  lander.vcxproj -> C:\Users\17521\Desktop\lander\lander\Debug\lander.exe
