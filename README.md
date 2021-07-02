@@ -4,6 +4,7 @@ Cambridge mars lander 2020-2021
 Guide to starting this application from Cambridge:
 
 Getting Started in Microsoft Windows
+
 To work on the Mars Lander exercise, you need to install a C++ compiler on your PC.
 
 First, install Microsoft's Visual Studio Community 2019 from here. The installer will ask you precisely what it is you wish to install. In the Workloads tab, select Desktop development with C++, add the most recent version of the optional Windows 10 SDK in the Installation details pane on the right (this may be ticked to install by default), then confirm that the NuGet package manager is selected from the Individual components tab. Press Install.
